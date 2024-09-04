@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/Invoice-Gen/static/css/main.562fec87.chunk.css",
+    "main.js": "/Invoice-Gen/static/js/main.76c42288.chunk.js",
+    "main.js.map": "/Invoice-Gen/static/js/main.76c42288.chunk.js.map",
+    "runtime~main.js": "/Invoice-Gen/static/js/runtime~main.695558b7.js",
+    "runtime~main.js.map": "/Invoice-Gen/static/js/runtime~main.695558b7.js.map",
+    "static/js/2.6a9c0ae6.chunk.js": "/Invoice-Gen/static/js/2.6a9c0ae6.chunk.js",
+    "static/js/2.6a9c0ae6.chunk.js.map": "/Invoice-Gen/static/js/2.6a9c0ae6.chunk.js.map",
+    "static/js/3.a29efab2.chunk.js": "/Invoice-Gen/static/js/3.a29efab2.chunk.js",
+    "static/js/3.a29efab2.chunk.js.map": "/Invoice-Gen/static/js/3.a29efab2.chunk.js.map",
+    "index.html": "/Invoice-Gen/index.html",
+    "precache-manifest.1b7428a83a3986bac1840a28a07b0b39.js": "/Invoice-Gen/precache-manifest.1b7428a83a3986bac1840a28a07b0b39.js",
+    "service-worker.js": "/Invoice-Gen/service-worker.js",
+    "static/css/main.562fec87.chunk.css.map": "/Invoice-Gen/static/css/main.562fec87.chunk.css.map"
+  }
+}
